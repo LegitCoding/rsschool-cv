@@ -1,1 +1,1 @@
-https://legitcode.github.io/rsschool-cv/cv
+https://legitcoding.github.io/rsschool-cv/cv
