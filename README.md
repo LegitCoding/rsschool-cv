@@ -1,1 +1,1 @@
-# rsschool-cv
+https://legitcoding.github.io/rsschool-cv/cv
