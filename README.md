@@ -1,1 +1,1 @@
-https://github.com/LegitCoding/rsschool-cv/blob/62d7c94c5b21b08d21fbf59500dedd8a25eed754/cv.md
+https://github.com/LegitCoding/rsschool-cv/blob/gh-pages/cv.md
